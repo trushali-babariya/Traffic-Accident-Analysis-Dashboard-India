@@ -1,9 +1,11 @@
 # 🚦 Traffic Accident Analysis Dashboard – India  
 
 ## 📌 Project Overview  
-This project presents an interactive **Traffic Accident Analysis Dashboard** built using **Power BI**, based on real-world accident data sourced from **data.gov.in (2022 dataset)**.  
+This project presents an interactive **Traffic Accident Analysis Dashboard** built using Power BI, leveraging **real-world accident data sourced from data.gov.in (2022 dataset)**.
 
-The dashboard analyzes road and railway accidents across Indian states, providing clear insights into accident trends, fatalities, and injuries.
+The dashboard provides a structured analytical view of road and railway accidents across Indian states, enabling comparative evaluation of accident frequency, fatalities, and injury rates. Advanced sorting and ranking logic has been implemented to dynamically surface the highest-impact states, facilitating focused analysis on regions with elevated accident intensity.
+
+Through state-wise benchmarking, categorical breakdowns, and geospatial mapping, the dashboard transforms raw accident data into actionable insights, supporting data-driven interpretation of risk concentration and severity patterns across India.
 
 ---
 
